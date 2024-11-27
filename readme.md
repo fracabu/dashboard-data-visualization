@@ -28,7 +28,7 @@
    ```
 3. Avvia la dashboard Streamlit:
    ```bash
-   streamlit run dashboard_premium.py
+   streamlit run main.py (sostituire con il py della dashboard da deployare)
    ```
 4. La dashboard sarà accessibile su [http://localhost:8501](http://localhost:8501).
 
