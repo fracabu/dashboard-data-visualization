@@ -5,6 +5,14 @@
 Questa applicazione combina la potenza di **Streamlit** ⚡ per creare dashboard interattive con un'API Flask deployata su **Render** 🚀 per fornire dati simulati o reali in tempo reale. È progettata per offrire una soluzione completa per l'analisi e la visualizzazione dei dati.
 
 ---
+![image](https://github.com/user-attachments/assets/a26880e7-e1fb-45c2-b03d-4f50b8252f64)
+
+![image](https://github.com/user-attachments/assets/7521c4cb-a535-4b9b-bb2c-be9ce8f7273b)
+
+![image](https://github.com/user-attachments/assets/00d4a42e-ff86-4a27-83a7-fb7bf39a60e6)
+
+
+
 
 ## 🏗️ Struttura del Progetto
 
