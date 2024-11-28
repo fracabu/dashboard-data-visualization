@@ -65,7 +65,7 @@ Link al dashboard:
 L'API è ospitata su **Render** e fornisce i dati utilizzati dal dashboard per le visualizzazioni e l'analisi.
 
 Link API Render:  
-**[Accedi all'API Flask](https://medical-data-api-2.onrender.com)** 🔗
+**[Accedi all'API Flask](https://medical-data-api-2.onrender.com/generate)** 🔗
 
 ---
 
