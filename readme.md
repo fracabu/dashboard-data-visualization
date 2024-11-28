@@ -59,13 +59,13 @@ dashboard-data-visualization/
 L'app è stata deployata su **Streamlit Cloud**, rendendola accessibile online 24/7.
 
 Link al dashboard:  
-**[Accedi al Dashboard Interattivo](https://tuo-link-all-app.streamlit.app)** 🔗
+**[Accedi al Dashboard Interattivo](https://dashboard-data-visualization-ulywqtuxf4ckzkacu279we.streamlit.app/)** 🔗
 
 ### ⚙️ **API Flask**
 L'API è ospitata su **Render** e fornisce i dati utilizzati dal dashboard per le visualizzazioni e l'analisi.
 
 Link API Render:  
-**[Accedi all'API Flask](https://tuo-api-deploy-su-render.com)** 🔗
+**[Accedi all'API Flask](https://medical-data-api-2.onrender.com)** 🔗
 
 ---
 
